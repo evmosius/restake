@@ -749,6 +749,7 @@
     "chainId": "crypto-org-chain-mainnet-1",
     "prefix": "cro",
     "denom": "basecro",
+    "decimals": 1e8,
     "restUrl": [
       "https://lcd-crypto-org.keplr.app/"
     ],
